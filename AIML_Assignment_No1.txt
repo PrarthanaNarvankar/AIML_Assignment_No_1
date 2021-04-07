@@ -1,0 +1,12 @@
+Question 1
+
+Explain Machine Learning with your own example?
+
+Ans: Machine learning focuses on the development of computer programs that can access data and use it to learn for themselves.
+     Machine  learning is a type of artificial intelligence that enables self-learning from data and then applies that learning without the need for human intervention.
+     Machine Learning is a field that consists of learning algorithms that :
+     1)Improves their performance P
+     2)At executing some task T
+     3)Over time with experience E
+     eg:Email Classification.
+
